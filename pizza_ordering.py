@@ -1,5 +1,5 @@
 # python
-Pizza ordering program using puthon
+#Pizza ordering program using puthon
 print("welcome to pizza shop")
 print("press 1 for pizza")
 print("press 2 for soft drink")
